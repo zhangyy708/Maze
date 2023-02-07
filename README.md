@@ -1,5 +1,11 @@
 # Maze
 
+## Demo
+
+The demonstration video for this game can be found at https://www.youtube.com/watch?v=uoGYbEvKLks&list=PLkwEMfbi6HCFemwBPV-iJhiH9-ZhA0Q2m&index=12
+
+This is the final project of CS50 Game Development, an online course provided by Harvard University on EdX. 
+
 ## How to Play?
 
 ### Goal
